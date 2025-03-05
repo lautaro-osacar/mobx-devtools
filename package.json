@@ -88,6 +88,6 @@
     "node-polyfill-webpack-plugin": "^4.0.0"
   },
   "resolutions": {
-    "electron": "^11.0.1"
+    "electron": "18.2.4"
   }
 }
